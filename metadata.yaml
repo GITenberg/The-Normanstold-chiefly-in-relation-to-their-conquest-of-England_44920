@@ -1,0 +1,29 @@
+_repo: The-Normanstold-chiefly-in-relation-to-their-conquest-of-England_44920
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44920-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Jewett, Sarah Orne
+    birthdate: 1849
+    deathdate: 1909
+    gutenberg_agent_id: '202'
+    url: http://www.gutenberg.org/2009/agents/202
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Orne_Jewett
+description: ''
+gutenberg_issued: '2014-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44920'
+  lccn: '11013390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Normans'
+- !lcsh 'Great Britain -- History -- Norman period, 1066-1154'
+- !lcc 'DA'
+title: The Normans; told chiefly in relation to their conquest of England
+url: http://www.gutenberg.org/ebooks/44920
